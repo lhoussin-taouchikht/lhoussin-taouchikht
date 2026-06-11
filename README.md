@@ -130,13 +130,6 @@ me.say_hi()
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lhoussin-taouchikht&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="Trophies"/>
-
-</div>
 
 ---
 
@@ -151,11 +144,7 @@ me.say_hi()
 
 ---
 
-## 🌊 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lhoussin-taouchikht/lhoussin-taouchikht/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 ---
 
