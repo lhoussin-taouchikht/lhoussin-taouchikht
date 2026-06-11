@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20I'm%20Alex%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Python%20Wizard&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20I'm%20lhou%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Python%20Wizard&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -11,13 +11,14 @@
 <br/><br/>
 
 <!-- Profile Views & Social Badges -->
-<img src="https://komarev.com/ghpvc/?username=alexdev&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=lhoudev&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 &nbsp;
-<a href="mailto:alex@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:taouchikht.lhoussin0@gmail.com
+"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
 <a href="https://kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 
@@ -28,7 +29,7 @@
 ## 🧠 About Me
 
 ```python
-class AlexDev:
+class lhouDev:
     def __init__(self):
         self.name       = "lhoussin"
         self.role       = "AI Engineer & ML Researcher"
@@ -42,7 +43,7 @@ class AlexDev:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together.")
 
-me = AlexDev()
+me = lhouDev()
 me.say_hi()
 ```
 
@@ -89,17 +90,17 @@ me.say_hi()
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=F85D7F&text_color=ffffff&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lhoudev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=F85D7F&text_color=ffffff&count_private=true" height="180" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhoudev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexdev&theme=tokyonight&hide_border=true&background=0D1117&stroke=A960EE&ring=F85D7F&fire=F85D7F&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A960EE&sideLabels=A960EE&dates=888888" width="700" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lhoudev&theme=tokyonight&hide_border=true&background=0D1117&stroke=A960EE&ring=F85D7F&fire=F85D7F&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A960EE&sideLabels=A960EE&dates=888888" width="700" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexdev&bg_color=0D1117&color=A960EE&line=F85D7F&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lhoudev&bg_color=0D1117&color=A960EE&line=F85D7F&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -108,12 +109,12 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://github.com/alexdev/project-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexdev&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=F85D7F&text_color=ffffff" />
+<a href="https://github.com/lhoudev/project-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lhoudev&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=F85D7F&text_color=ffffff" />
 </a>
 &nbsp;
-<a href="https://github.com/alexdev/project-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexdev&repo=project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=F85D7F&text_color=ffffff" />
+<a href="https://github.com/lhoudev/project-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lhoudev&repo=project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=F85D7F&text_color=ffffff" />
 </a>
 
 </div>
@@ -133,7 +134,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=alexdev&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=lhoudev&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="Trophies"/>
 
 </div>
 
@@ -153,7 +154,7 @@ me.say_hi()
 ## 🌊 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alexdev/alexdev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/lhoudev/lhoudev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
