@@ -11,13 +11,13 @@
 <br/><br/>
 
 <!-- Profile Views & Social Badges -->
-<img src="https://komarev.com/ghpvc/?username=lhoussin-taouchikhtdev&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=lhoussin-taouchikht&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 &nbsp;
-<a href="mailto:taouchikht.lhoussin-taouchikhtssin0@gmail.com
+<a href="mailto:taouchikht.lhoussin0@gmail.com
 "><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
 <a href="https://kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
@@ -29,7 +29,7 @@
 ## 🧠 About Me
 
 ```python
-class lhoussin-taouchikhtDev:
+class lhoussin-taouchikht:
     def __init__(self):
         self.name       = "lhoussin-taouchikhtssin"
         self.role       = "AI Engineer & ML Researcher"
@@ -43,7 +43,7 @@ class lhoussin-taouchikhtDev:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together.")
 
-me = lhoussin-taouchikhtDev()
+me = lhoussin-taouchikht()
 me.say_hi()
 ```
 
@@ -90,17 +90,17 @@ me.say_hi()
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lhoussin-taouchikhtdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=F85D7F&text_color=ffffff&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lhoussin-taouchikht&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=F85D7F&text_color=ffffff&count_private=true" height="180" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhoussin-taouchikhtdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhoussin-taouchikht&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lhoussin-taouchikhtdev&theme=tokyonight&hide_border=true&background=0D1117&stroke=A960EE&ring=F85D7F&fire=F85D7F&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A960EE&sideLabels=A960EE&dates=888888" width="700" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lhoussin-taouchikht&theme=tokyonight&hide_border=true&background=0D1117&stroke=A960EE&ring=F85D7F&fire=F85D7F&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A960EE&sideLabels=A960EE&dates=888888" width="700" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lhoussin-taouchikhtdev&bg_color=0D1117&color=A960EE&line=F85D7F&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lhoussin-taouchikht&bg_color=0D1117&color=A960EE&line=F85D7F&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -109,12 +109,12 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://github.com/lhoussin-taouchikhtdev/project-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lhoussin-taouchikhtdev&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=F85D7F&text_color=ffffff" />
+<a href="https://github.com/lhoussin-taouchikht/project-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lhoussin-taouchikht&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=F85D7F&text_color=ffffff" />
 </a>
 &nbsp;
-<a href="https://github.com/lhoussin-taouchikhtdev/project-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lhoussin-taouchikhtdev&repo=project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=F85D7F&text_color=ffffff" />
+<a href="https://github.com/lhoussin-taouchikht/project-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lhoussin-taouchikht&repo=project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=F85D7F&text_color=ffffff" />
 </a>
 
 </div>
@@ -134,7 +134,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lhoussin-taouchikhtdev&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=lhoussin-taouchikht&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="Trophies"/>
 
 </div>
 
@@ -154,7 +154,7 @@ me.say_hi()
 ## 🌊 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lhoussin-taouchikhtdev/lhoussin-taouchikhtdev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/lhoussin-taouchikht/lhoussin-taouchikht/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
