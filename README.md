@@ -30,7 +30,7 @@
 ```python
 class AlexDev:
     def __init__(self):
-        self.name       = "Alex"
+        self.name       = "lhoussin"
         self.role       = "AI Engineer & ML Researcher"
         self.location   = "🌍 Earth"
         self.languages  = ["Python", "SQL", "Bash", "R"]
