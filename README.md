@@ -105,19 +105,7 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/lhoussin-taouchikht/project-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lhoussin-taouchikht&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=F85D7F&text_color=ffffff" />
-</a>
-&nbsp;
-<a href="https://github.com/lhoussin-taouchikht/project-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lhoussin-taouchikht&repo=project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=F85D7F&text_color=ffffff" />
-</a>
-
-</div>
 
 ### 🔥 What I'm Building
 
